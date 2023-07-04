@@ -1,2 +1,2 @@
 Welcome to the folder of my data projects.
-Skills used: Python, SQL, Excel, Jupyter
+\n Skills used: Python, SQL, Excel, Jupyter
